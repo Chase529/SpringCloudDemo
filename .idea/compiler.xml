@@ -14,14 +14,5 @@
         <module name="service-zuul" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="cloud" target="1.8" />
-      <module name="eureka" target="1.8" />
-      <module name="serice-feign" target="1.8" />
-      <module name="service-feign" target="1.8" />
-      <module name="service-hi" target="1.8" />
-      <module name="service-ribbon" target="1.8" />
-      <module name="service-zuul" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
